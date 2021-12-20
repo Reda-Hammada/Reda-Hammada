@@ -4,4 +4,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-Hammada&langs_count=10&theme=tokyonight&layout=compact" alt="Reda-Hammada:: Top Langs" /></p>
 
 
-![Reda Hammada Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reda-Hammada)
+<p align="center">![Reda Hammada Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reda-Hammada)</p>
