@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://hammada-reda.com](https://hammada-reda.com)
 
-- 💬 Ask me about **React,Laravel,PHP,Javascript**
-
 - 📫 How to reach me **hammada.reda.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
