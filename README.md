@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Manageme application](htthttps://github.com/Reda-Hammada/manageme)
 
-- 🌱 I’m currently learning **React and Laravel**
+- 🌱 I’m currently learning **Vue and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://hammada-reda.com](https://hammada-reda.com)
 
