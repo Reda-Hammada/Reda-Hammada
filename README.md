@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I am Reda Hammada</h1>
 <h3 align="center">A passionate junior web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reda-hammada&label=Profile%20views&color=0e75b6&style=flat" alt="reda-hammada" /> </p>
-
-
 - 🔭 I’m currently working on [Manageme application](htthttps://github.com/Reda-Hammada/manageme)
 
 - 🌱 I’m currently learning **Vue and Laravel**
