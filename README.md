@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Manageme application](htthttps://github.com/Reda-Hammada/manageme)
 
-- 🌱 I’m currently learning **Vue and Laravel**
+- 🌱 I’m currently learning **React,Vue and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://hammada-reda.com](https://hammada-reda.com)
 
-- 💬 Ask me about **Vue,Laravel,PHP,Javascript**
+- 💬 Ask me about **React,Vue,Laravel,PHP,Javascript**
 
 - 📫 How to reach me **hammada.reda.dev@gmail.com**
 
