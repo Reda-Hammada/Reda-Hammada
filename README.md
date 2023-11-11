@@ -2,9 +2,6 @@
 <h3 align="center">A passionate web developer from Morocco</h3>
 
 - 👨‍💻 All of my projects are available at [https://hammada-reda.com](https://hammada-reda.com)
-
-- 💬 Ask me about **React,Vue,Laravel,PHP,Javascript**
-
 - 📫 How to reach me **hammada.reda.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
